@@ -9,7 +9,7 @@ export PATH=$GATKDIR:$PATH
 # cd genome
 
 # Genome summary files needed and by GATK tools
-gatk CreateSequenceDictionary -R Solidis_ref.fa  -O Solidis_ref.fa.dict
+gatk CreateSequenceDictionary -R Solidis_ref.fa  -O Solidis_ref.dict
 samtools faidx Solidis_ref.fa
 
 # index for BWA alignment
