@@ -20,6 +20,10 @@ Spisula Progress Summary
 There are also stats for different chromosomes (ignored because I do not
 have differentiated chromosomes)
 
+<span style="color: red;">MPH: Very nice! Maintaining a chronological sequence, can you add the essentials of your Trinity results so it becomes clear why solidissima has so much more data?
+
+Your duplication rate is very high - why do you think that might be?</span>
+
 ## Including Code
 
 You can include R code in the document as follows:
